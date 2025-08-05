@@ -200,7 +200,6 @@ For permission requests or licensing inquiries, please contact the project creat
 - **Ultralytics** for the YOLOv10 implementation
 - **SKU-110K Dataset** for training data
 - **Anthropic** for Claude AI vision capabilities
-- **Eastside Preparatory School** for project support
 
 ---
 
