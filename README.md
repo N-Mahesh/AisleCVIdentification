@@ -139,7 +139,7 @@ The system provides structured output for each identified product:
 
 ### Training Environment
 - Optimized for Google Colab with T4 GPU
-- Training time: ~10 hours for 10 epochs
+- Training time: ~3 hours for 10 epochs
 - Memory usage: ~10.9GB GPU memory
 
 ### Performance Optimization
