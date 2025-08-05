@@ -103,7 +103,7 @@ AisleCVIdentification/
 
 ## 🎯 Model Performance
 
-The YOLOv10 model achieves:
+The YOLOv10m model achieves:
 - **mAP50**: 0.907 (90.7% accuracy at 50% IoU threshold)
 - **mAP50-95**: 0.589 (58.9% accuracy across IoU thresholds)
 - **Precision**: 0.902
